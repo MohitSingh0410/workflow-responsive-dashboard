@@ -119,7 +119,7 @@ const Login = () => {
                 <input
                   type="submit"
                   value="Sign In"
-                  className="cursor-pointer w-[100%] bg-blue-500 text-white px-3 py-2 rounded w-28"
+                  className="cursor-pointer w-[100%] bg-blue-500 text-white px-3 py-2 rounded"
                 />
                 <p>
                   Need an account?{" "}
